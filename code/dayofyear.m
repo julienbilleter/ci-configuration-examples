@@ -28,7 +28,7 @@ end
 % Initialize the days per month
 daysPerMonth = [ ...
     31;  % January
-    28;  % February
+    30;  % February // original : 28 : bug 30
     31;  % March
     30;  % April
     31;  % May
